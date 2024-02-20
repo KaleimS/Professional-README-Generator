@@ -16,7 +16,7 @@
   ## Credits
   
   ## License
-  This Project is protected under this project - 
+  This Project is protected under this project - Mit License
   ## Tests
   To run the program in the commandline you will use - node index.js - once you go through all the questions a readme file will be output in the output folder
   ## Questions
