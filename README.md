@@ -14,7 +14,7 @@
   ## Usage 
   To use this app you will have to, Node JS, Inquirer 9.2.15
   ## Credits
-  
+  I used Chatgpt to help explain different concepts within the project but not to copy and paste, as it really helps break down problems and understand them.
   ## License
   This Project is protected under this project - Mit License
   ## Tests
