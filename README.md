@@ -1,6 +1,8 @@
 
   # Professional Readme Generator
-  The main purpose of this project was a create a Readme Generator that includes multiple different selections and info based on what the user needs.
+  The primary aim of this project is to develop a comprehensive and user-friendly README generator that offers a wide range of customizable options and information to meet the specific requirements of the user. The generator will be designed to simplify 
+  the process of creating a README file by providing users with an intuitive and streamlined interface that guides them through the process step by step. By incorporating various features and functionalities, the generator will enable users to create high- 
+  quality and informative README files that accurately reflect the scope and purpose of their projects.
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
