@@ -1,16 +1,23 @@
+
   # Professional Readme Generator
-  ## This project was a simple project to create a node.js application that can dynamically create a readme file for any project you may like
+  The main purpose of this project was a create a Readme Generator that includes multiple different selections and info based on what the user needs.
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
+  * [Credits](#credits)
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  To use my app you will need to have visual studio, as well as node.js installed
+  There will be a video posted on this readme. 
   ## Usage 
-  To use this app you will have to, To use simply type in the console node index.js
+  To use this app you will have to, Node JS, Inquirer 9.2.15
   ## Credits
-  Me
+  
   ## License
-  MIT 
+  This Project is protected under this project - 
+  ## Tests
+  To run the program in the commandline you will use - node index.js - once you go through all the questions a readme file will be output in the output folder
+  ## Questions
+  * Email - KaleimBusiness@gmail.com
+  * Github Profile - [KaleimS](https://github.com/KaleimS)
+  
